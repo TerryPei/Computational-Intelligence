@@ -16,13 +16,15 @@ lab7 --
 
 lab8 --
 
-Project1 -- Using c++ to construct, forward propagate, back propagate basic neuron network and make prediction step by step
+Project1 -- Using c++ to construct basic neuron network step by step
+ - init topology
+ - construct network
+ - forward propagate 
+ - back propagate 
+ - make prediction
 
 Project2 --
 
-```
-import terry
 
-```
 
 Labs on computational intelligence
